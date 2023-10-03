@@ -2,4 +2,4 @@
 
 Simple shopping list App.
 
-![Alt text](image.png)
+![Alt text](images/screen.png)
